@@ -1,6 +1,6 @@
 # signaturesemo
 
-A new Flutter project.
+A new Flutter project.\n Custom paint
 
 ## Getting Started
 
